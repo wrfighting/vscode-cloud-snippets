@@ -8,6 +8,8 @@ vscode插件，支持从服务端获取代码片段提示，在js文件和ts文�
 
 使用antd:select去服务端获取对应的代码片段，返回的数据是数组，包含多个提示
 
+[![vscode-cutpic.png](/Users/haha/Downloads/vscode-cutpic.png)](https://postimg.cc/HVD07M1p)
+
 会记录选择的代码片段情况，然后在关闭任一文件的时候进行上报，便于服务端进行更合理的关键字匹配，返回更合适的结果
 
 ## 改造
